@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+.p {
+    color: aquamarine;
+    font-family: Etna;
+}
+.backgrgound {
+    background-color: black
+}
+h1 {
+    color: greenyellow
+}
+ul {
+    list-style: url("");
+}
+
+.link-header:visited {
+    color:rgb(137, 135, 235);
+    text-decoration: none;
+}
+
+main {
+    border-top: 5px dotted skyblue ;
+    border-bottom: 5px dotted skyblue ;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.social:hover {
+    width: 250%;
+    height: 250%;
+}
+
+.link-nav:visited {
+    color:rgb(137, 135, 235);
+}
+.link-nav {
+    text-decoration: none;
+}
+.link-header {
+    text-decoration: none;
+}
